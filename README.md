@@ -32,10 +32,13 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 # GitHub Activity Game 🎮
 
-## My Activity Graph
-![FaridAliyew's Activity Graph](https://activity-graph.herokuapp.com/graph?username=FaridAliyew&theme=react-dark)
+![Snake Game](https://media.giphy.com/media/3o6ZsV3hiz5taSPGCQ/giphy.gif)
 
-## Try to beat this!
-![Leaderboard](https://your-leaderboard-image-url.com)
+
+
+
+
+
+
 
 
