@@ -30,9 +30,6 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 [![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-# GitHub Activity Game 🎮
-
-![Snake Game](https://media.giphy.com/media/3o6ZsV3hiz5taSPGCQ/giphy.gif)
 
 
 
