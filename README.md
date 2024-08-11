@@ -20,14 +20,12 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats:
-![FaridAliyew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridAliyew&show_icons=true&theme=dark&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FaridAliyew&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=FaridAliyew&show_icons=true&theme=dark&count_private=true" alt="FaridAliyew's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=FaridAliyew&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
 ![FaridAliyew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=dark)
 
-
 [![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-
-
-
-
