@@ -29,3 +29,13 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![FaridAliyew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+# GitHub Activity Game 🎮
+
+## My Activity Graph
+![FaridAliyew's Activity Graph](https://activity-graph.herokuapp.com/graph?username=FaridAliyew&theme=react-dark)
+
+## Try to beat this!
+![Leaderboard](https://your-leaderboard-image-url.com)
+
+
