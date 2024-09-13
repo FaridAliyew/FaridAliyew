@@ -20,6 +20,8 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3F8EFC?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 
