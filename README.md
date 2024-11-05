@@ -38,6 +38,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 
 
+
 ## GitHub Stats:
 
 <div>
@@ -48,6 +49,10 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![FaridAliyew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+[![Final Project Teapoy](https://img.shields.io/badge/Final%20Project--Teapoy-00CCCC?style=for-the-badge&logo=react&logoColor=white)](https://final-project-ten-kappa.vercel.app/)
+
+
 
 
 
