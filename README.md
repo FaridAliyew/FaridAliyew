@@ -43,7 +43,6 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=FaridAliyew&show_icons=true&theme=dark&count_private=true" alt="FaridAliyew's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=FaridAliyew&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ![FaridAliyew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=dark)
