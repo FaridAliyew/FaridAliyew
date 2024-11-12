@@ -29,6 +29,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 
