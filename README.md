@@ -41,15 +41,23 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 ## GitHub Stats:
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=FaridAliyew&show_icons=true&theme=dark&count_private=true" alt="FaridAliyew's GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridAliyew&show_icons=true&theme=radical)
 
-![FaridAliyew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=FaridAliyew&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FaridAliyew&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FaridAliyew&theme=github)
 
 [![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+### 📂 My Main Projects
 [![Final Project Teapoy](https://img.shields.io/badge/Final%20Project--Teapoy-00CCCC?style=for-the-badge&logo=react&logoColor=white)](https://final-project-ten-kappa.vercel.app/)
+
+
+
 
 
 
