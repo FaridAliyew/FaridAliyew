@@ -55,7 +55,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 [![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### 📂 My Main Projects
-[![E-commerce Website Teapoy](https://img.shields.io/badge/Ecommerce%20Website--Teapoy-00CCCC?style=for-the-badge&logo=react&logoColor=white)](https://e-commerce-website-teapoy.vercel.app/)
+[![E-commerce Website Teapoy](https://img.shields.io/badge/Ecommerce%20Website--Teapoy-00CCCC?style=for-the-badge&logo=react&logoColor=white)](https://e-commerce-website-teapoy-git-main-faridaliyews-projects.vercel.app/)
 
 
 
