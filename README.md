@@ -12,6 +12,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-7952B3?style=for-the-badge&logo=react-bootstrap&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-333333?style=for-the-badge&logo=react&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 
 ![React Router](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
