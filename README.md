@@ -59,7 +59,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 ### 📂 My Main Projects
 [![E-commerce Website Teapoy](https://img.shields.io/badge/Ecommerce%20Website--Teapoy-00CCCC?style=for-the-badge&logo=react&logoColor=white)](https://klift-website.vercel.app/) <br/>
-[![Klift Website](https://img.shields.io/badge/Klift%20Website-ff7ae0?style=for-the-badge&logo=vite&logoColor=white)](https://digital-clock-m0v70yia9-faridaliyews-projects.vercel.app/) <br/>
+[![Klift Website](https://img.shields.io/badge/Klift%20Website-ff7ae0?style=for-the-badge&logo=vite&logoColor=white)](https://klift-website.vercel.app/) <br/>
 [![Digital Clock](https://img.shields.io/badge/Digital%20Clock-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://digital-clock-m0v70yia9-faridaliyews-projects.vercel.app/)
 
 
