@@ -33,6 +33,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
