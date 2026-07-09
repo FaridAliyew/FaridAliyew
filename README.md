@@ -34,8 +34,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 
@@ -48,17 +47,13 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 ## GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridAliyew&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaridAliyew&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=FaridAliyew&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FaridAliyew&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FaridAliyew&theme=github)
 
-[![](https://visitcount.itsvg.in/api?id=Farid&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
+
 
 ### 📂 My Projects
 [![E-commerce Website Teapoy](https://img.shields.io/badge/Ecommerce%20Website--Teapoy-E34F26?style=for-the-badge&logo=react&logoColor=white)](https://final-project-rho-blush.vercel.app/) <br/>
