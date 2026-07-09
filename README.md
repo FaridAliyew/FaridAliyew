@@ -1,5 +1,9 @@
-# Hi there 👋, Farid Aliyew
-## Front-end developer
+
+
+<h1 align="center">
+  <i>Front-end developer</i>
+</h1>
+
 ![Front-end developer](https://i.pinimg.com/originals/88/4d/e8/884de81d29f37619ff17935475764213.jpg)
 
 I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I love to play futbool and listen to music
@@ -35,11 +39,6 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-
-
-
 
 
 
