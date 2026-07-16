@@ -59,7 +59,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 [![Aurelia Dental Lab](https://img.shields.io/badge/Aurelia%20Dental%20Lab-075c5f?style=for-the-badge&logo=googlescholar&logoColor=white)](https://dental-technician-topaz.vercel.app/) <br/>
 [![Portfolio](https://img.shields.io/badge/%3C%2F%3E%20Portfolio-000000?style=for-the-badge&logo=code&logoColor=white)](https://about-me-rosy-rho.vercel.app/) <br/>
 [![Girls Code](https://img.shields.io/badge/Girls%20Code-ff5050?style=for-the-badge&logo=vite&logoColor=white)](https://girlscode.az/) <br/>
-[![Səbat](https://img.shields.io/badge/Səbat-ff0000?style=for-the-badge&logo=vite&logoColor=white)](https://demo.sabat.az/) 
+[![Səbat](https://img.shields.io/badge/Səbat-ff0000?style=for-the-badge&logo=vite&logoColor=white)](https://sabat.az/) 
 
 
 
