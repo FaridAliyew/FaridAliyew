@@ -1,10 +1,11 @@
 
-
-<h1 align="center">
-  <i>Front-end developer</i>
-</h1>
-
-![Front-end developer](https://i.pinimg.com/originals/88/4d/e8/884de81d29f37619ff17935475764213.jpg)
+<p align="center">
+  <img
+    src="./assets/code-animation.svg"
+    width="100%"
+    alt="Farid Aliyev"
+  />
+</p>
 
 I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I love to play futbool and listen to music
 
