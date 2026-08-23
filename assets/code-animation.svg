@@ -19,12 +19,12 @@
       </rect>
     </clipPath>
 
-    <!-- React -->
+    <!-- React.js -->
     <clipPath id="clip-role-2">
       <rect x="72" y="108" width="0" height="34">
         <animate
           attributeName="width"
-          values="0;0;85;85;0;0"
+          values="0;0;115;115;0;0"
           keyTimes="0;0.26761;0.31690;0.37324;0.40845;1"
           dur="14.2s"
           repeatCount="indefinite"
@@ -116,7 +116,7 @@
     Front-end Developer
   </text>
 
-  <!-- React -->
+  <!-- React.js -->
   <text
     x="72"
     y="132"
@@ -125,7 +125,7 @@
     font-family="Consolas, Monaco, monospace"
     clip-path="url(#clip-role-2)"
   >
-    React
+    React.js
   </text>
 
   <!-- Next.js -->
@@ -185,15 +185,14 @@
     <!-- Cursor follows text -->
     <animate
       attributeName="x"
-
       values="
         72;
         328;
         328;
         72;
         72;
-        138;
-        138;
+        177;
+        177;
         72;
         72;
         164;
@@ -209,7 +208,6 @@
         72;
         72
       "
-
       keyTimes="
         0;
         0.14085;
@@ -233,7 +231,6 @@
         0.97887;
         1
       "
-
       dur="14.2s"
       repeatCount="indefinite"
     />
@@ -257,7 +254,7 @@
     font-size="17"
     font-family="Consolas, Monaco, monospace"
   >
-    React · Next.js · TypeScript · JavaScript
+    React.js · Next.js · TypeScript · JavaScript
   </text>
 
   <!-- Description -->
