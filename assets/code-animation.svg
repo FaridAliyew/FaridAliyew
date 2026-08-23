@@ -1,139 +1,274 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
-
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="320"
+  viewBox="0 0 1200 320"
+>
   <defs>
-    <linearGradient id="cyanGradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#06b6d4"/>
-    </linearGradient>
 
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <!-- Front-end Developer -->
+    <clipPath id="clip-role-1">
+      <rect x="72" y="108" width="0" height="34">
+        <animate
+          attributeName="width"
+          values="0;270;270;0;0"
+          keyTimes="0;0.14085;0.19718;0.25352;1"
+          dur="14.2s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- React -->
+    <clipPath id="clip-role-2">
+      <rect x="72" y="108" width="0" height="34">
+        <animate
+          attributeName="width"
+          values="0;0;85;85;0;0"
+          keyTimes="0;0.26761;0.31690;0.37324;0.40845;1"
+          dur="14.2s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- Next.js -->
+    <clipPath id="clip-role-3">
+      <rect x="72" y="108" width="0" height="34">
+        <animate
+          attributeName="width"
+          values="0;0;110;110;0;0"
+          keyTimes="0;0.42254;0.48592;0.54225;0.58451;1"
+          dur="14.2s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- TypeScript -->
+    <clipPath id="clip-role-4">
+      <rect x="72" y="108" width="0" height="34">
+        <animate
+          attributeName="width"
+          values="0;0;150;150;0;0"
+          keyTimes="0;0.59859;0.67606;0.73239;0.78169;1"
+          dur="14.2s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
+    <!-- JavaScript -->
+    <clipPath id="clip-role-5">
+      <rect x="72" y="108" width="0" height="34">
+        <animate
+          attributeName="width"
+          values="0;0;150;150;0;0"
+          keyTimes="0;0.79577;0.87324;0.92958;0.97887;1"
+          dur="14.2s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </clipPath>
+
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="420" rx="20" fill="#000000"/>
-
-  <!-- Animated code icon -->
-  <g transform="translate(600 120)" filter="url(#glow)">
-
-    <path
-      d="M -90 -30 L -125 0 L -90 30"
-      stroke="url(#cyanGradient)"
-      stroke-width="6"
-      stroke-linecap="round"
-      stroke-linejoin="round">
-
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 0;-10 0;0 0"
-        dur="2s"
-        repeatCount="indefinite"/>
-    </path>
-
-    <path
-      d="M 90 -30 L 125 0 L 90 30"
-      stroke="url(#cyanGradient)"
-      stroke-width="6"
-      stroke-linecap="round"
-      stroke-linejoin="round">
-
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 0;10 0;0 0"
-        dur="2s"
-        repeatCount="indefinite"/>
-    </path>
-
-    <path
-      d="M 15 -55 L -15 55"
-      stroke="#ffffff"
-      stroke-width="6"
-      stroke-linecap="round">
-
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        values="-4 0 0;4 0 0;-4 0 0"
-        dur="2s"
-        repeatCount="indefinite"/>
-    </path>
-
-  </g>
-
-  <!-- Terminal -->
   <rect
-    x="300"
-    y="210"
-    width="600"
-    height="150"
-    rx="15"
-    fill="#07090d"
-    stroke="#1f2937"/>
+    width="1200"
+    height="320"
+    rx="12"
+    fill="#0d1117"
+  />
 
-  <!-- Terminal buttons -->
-  <circle cx="330" cy="235" r="6" fill="#ef4444"/>
-  <circle cx="350" cy="235" r="6" fill="#f59e0b"/>
-  <circle cx="370" cy="235" r="6" fill="#10b981"/>
-
-  <!-- Terminal title -->
-  <text
-    x="405"
-    y="241"
-    fill="#64748b"
-    font-size="15"
-    font-family="monospace">
-    farid@github: ~/profile
-  </text>
-
-  <!-- Code -->
-  <text
-    x="360"
-    y="285"
-    fill="#ffffff"
-    font-size="22"
-    font-family="monospace">
-    const developer = {
-  </text>
-
-  <text
-    x="390"
-    y="318"
-    fill="#22d3ee"
-    font-size="22"
-    font-family="monospace">
-    name: "Farid",
-  </text>
-
-  <text
-    x="390"
-    y="350"
-    fill="#ffffff"
-    font-size="22"
-    font-family="monospace">
-    role: "Front-end Developer"
-  </text>
-
-  <!-- Blinking cursor -->
+  <!-- Border -->
   <rect
-    x="755"
-    y="330"
-    width="11"
-    height="24"
-    rx="2"
-    fill="#22d3ee">
+    x="0.5"
+    y="0.5"
+    width="1199"
+    height="319"
+    rx="11.5"
+    fill="none"
+    stroke="#30363d"
+  />
 
+  <!-- Name -->
+  <text
+    x="72"
+    y="92"
+    fill="#f0f6fc"
+    font-size="36"
+    font-weight="600"
+    font-family="Arial, Helvetica, sans-serif"
+  >
+    Farid Aliyev
+  </text>
+
+  <!-- Front-end Developer -->
+  <text
+    x="72"
+    y="132"
+    fill="#8b949e"
+    font-size="22"
+    font-family="Consolas, Monaco, monospace"
+    clip-path="url(#clip-role-1)"
+  >
+    Front-end Developer
+  </text>
+
+  <!-- React -->
+  <text
+    x="72"
+    y="132"
+    fill="#8b949e"
+    font-size="22"
+    font-family="Consolas, Monaco, monospace"
+    clip-path="url(#clip-role-2)"
+  >
+    React
+  </text>
+
+  <!-- Next.js -->
+  <text
+    x="72"
+    y="132"
+    fill="#8b949e"
+    font-size="22"
+    font-family="Consolas, Monaco, monospace"
+    clip-path="url(#clip-role-3)"
+  >
+    Next.js
+  </text>
+
+  <!-- TypeScript -->
+  <text
+    x="72"
+    y="132"
+    fill="#8b949e"
+    font-size="22"
+    font-family="Consolas, Monaco, monospace"
+    clip-path="url(#clip-role-4)"
+  >
+    TypeScript
+  </text>
+
+  <!-- JavaScript -->
+  <text
+    x="72"
+    y="132"
+    fill="#8b949e"
+    font-size="22"
+    font-family="Consolas, Monaco, monospace"
+    clip-path="url(#clip-role-5)"
+  >
+    JavaScript
+  </text>
+
+  <!-- Animated cursor -->
+  <rect
+    x="72"
+    y="113"
+    width="9"
+    height="23"
+    rx="1"
+    fill="#c9d1d9"
+  >
+
+    <!-- Cursor blink -->
     <animate
       attributeName="opacity"
-      values="1;0;1"
-      dur="1s"
-      repeatCount="indefinite"/>
+      values="1;1;0;0;1"
+      dur="0.8s"
+      repeatCount="indefinite"
+    />
+
+    <!-- Cursor follows text -->
+    <animate
+      attributeName="x"
+
+      values="
+        72;
+        328;
+        328;
+        72;
+        72;
+        138;
+        138;
+        72;
+        72;
+        164;
+        164;
+        72;
+        72;
+        204;
+        204;
+        72;
+        72;
+        204;
+        204;
+        72;
+        72
+      "
+
+      keyTimes="
+        0;
+        0.14085;
+        0.19718;
+        0.25352;
+        0.26761;
+        0.31690;
+        0.37324;
+        0.40845;
+        0.42254;
+        0.48592;
+        0.54225;
+        0.58451;
+        0.59859;
+        0.67606;
+        0.73239;
+        0.78169;
+        0.79577;
+        0.87324;
+        0.92958;
+        0.97887;
+        1
+      "
+
+      dur="14.2s"
+      repeatCount="indefinite"
+    />
+
   </rect>
+
+  <!-- Divider -->
+  <line
+    x1="72"
+    y1="164"
+    x2="1128"
+    y2="164"
+    stroke="#21262d"
+  />
+
+  <!-- Tech stack -->
+  <text
+    x="72"
+    y="208"
+    fill="#c9d1d9"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    React · Next.js · TypeScript · JavaScript
+  </text>
+
+  <!-- Description -->
+  <text
+    x="72"
+    y="248"
+    fill="#8b949e"
+    font-size="16"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Building interfaces for the web.
+  </text>
 
 </svg>
