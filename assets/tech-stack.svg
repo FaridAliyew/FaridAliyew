@@ -1,0 +1,661 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="560"
+  viewBox="0 0 1200 560"
+>
+
+  <!-- =========================
+       BACKGROUND
+  ========================== -->
+
+  <rect
+    width="1200"
+    height="560"
+    rx="12"
+    fill="#0d1117"
+  />
+
+  <rect
+    x="0.5"
+    y="0.5"
+    width="1199"
+    height="559"
+    rx="11.5"
+    fill="none"
+    stroke="#30363d"
+  />
+
+  <!-- =========================
+       HEADER
+  ========================== -->
+
+  <text
+    x="72"
+    y="66"
+    fill="#f0f6fc"
+    font-size="26"
+    font-weight="600"
+    font-family="Arial, Helvetica, sans-serif"
+  >
+    Tech Stack
+  </text>
+
+  <text
+    x="72"
+    y="91"
+    fill="#6e7681"
+    font-size="13"
+    font-family="Consolas, Monaco, monospace"
+  >
+    frontend engineering / tools / platform
+  </text>
+
+  <!-- Active status -->
+  <circle
+    cx="990"
+    cy="67"
+    r="4"
+    fill="#3fb950"
+  >
+    <animate
+      attributeName="opacity"
+      values="1;0.35;1"
+      dur="2.4s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <text
+    x="1005"
+    y="72"
+    fill="#8b949e"
+    font-size="12"
+    font-family="Consolas, Monaco, monospace"
+    letter-spacing="1"
+  >
+    ACTIVE STACK
+  </text>
+
+  <!-- Header divider -->
+  <line
+    x1="72"
+    y1="112"
+    x2="1128"
+    y2="112"
+    stroke="#21262d"
+  />
+
+  <!-- Subtle moving activity tracer -->
+  <rect
+    x="72"
+    y="111"
+    width="90"
+    height="2"
+    rx="1"
+    fill="#58a6ff"
+    opacity="0"
+  >
+    <animate
+      attributeName="x"
+      values="72;1038"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.35;0.35;0"
+      keyTimes="0;0.15;0.85;1"
+      dur="7s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+
+  <!-- =========================
+       COLUMN DIVIDER
+  ========================== -->
+
+  <line
+    x1="600"
+    y1="144"
+    x2="600"
+    y2="492"
+    stroke="#21262d"
+  />
+
+
+  <!-- ========================================================
+       01 / CORE
+  ========================================================= -->
+
+  <text
+    x="72"
+    y="157"
+    fill="#6e7681"
+    font-size="12"
+    font-weight="600"
+    font-family="Consolas, Monaco, monospace"
+    letter-spacing="1.4"
+  >
+    01 / CORE
+  </text>
+
+  <!-- React -->
+  <text
+    x="72"
+    y="201"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    React.js
+
+    <animate
+      attributeName="fill"
+      values="#e6edf3;#ffffff;#e6edf3;#e6edf3;#e6edf3"
+      keyTimes="0;0.10;0.22;0.30;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- Next -->
+  <text
+    x="245"
+    y="201"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Next.js
+
+    <animate
+      attributeName="fill"
+      values="#e6edf3;#e6edf3;#ffffff;#e6edf3;#e6edf3"
+      keyTimes="0;0.22;0.35;0.48;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- TypeScript -->
+  <text
+    x="410"
+    y="201"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    TypeScript
+
+    <animate
+      attributeName="fill"
+      values="#e6edf3;#e6edf3;#ffffff;#e6edf3"
+      keyTimes="0;0.46;0.60;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+
+  <!-- Active underline: React -->
+  <rect
+    x="72"
+    y="214"
+    width="82"
+    height="2"
+    rx="1"
+    fill="#58a6ff"
+  >
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0;0"
+      keyTimes="0;0.04;0.20;0.26;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Active underline: Next -->
+  <rect
+    x="245"
+    y="214"
+    width="76"
+    height="2"
+    rx="1"
+    fill="#58a6ff"
+    opacity="0"
+  >
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.24;0.28;0.43;0.49;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Active underline: TypeScript -->
+  <rect
+    x="410"
+    y="214"
+    width="105"
+    height="2"
+    rx="1"
+    fill="#58a6ff"
+    opacity="0"
+  >
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.47;0.51;0.66;0.72;1"
+      dur="8s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+
+  <!-- Core row 2 -->
+
+  <text
+    x="72"
+    y="251"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    JavaScript
+  </text>
+
+  <text
+    x="245"
+    y="251"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    HTML5
+  </text>
+
+  <text
+    x="410"
+    y="251"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    CSS3
+  </text>
+
+
+  <!-- Core row 3 -->
+
+  <text
+    x="72"
+    y="287"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    React Router
+  </text>
+
+  <text
+    x="245"
+    y="287"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    React Native
+  </text>
+
+  <text
+    x="410"
+    y="287"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Vue.js
+  </text>
+
+
+
+  <!-- ========================================================
+       02 / UI & STYLING
+  ========================================================= -->
+
+  <text
+    x="640"
+    y="157"
+    fill="#6e7681"
+    font-size="12"
+    font-weight="600"
+    font-family="Consolas, Monaco, monospace"
+    letter-spacing="1.4"
+  >
+    02 / UI &amp; STYLING
+  </text>
+
+
+  <!-- Row 1 -->
+
+  <text
+    x="640"
+    y="201"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Tailwind CSS
+  </text>
+
+  <text
+    x="835"
+    y="201"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Sass
+  </text>
+
+  <text
+    x="990"
+    y="201"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Material UI
+  </text>
+
+
+  <!-- Row 2 -->
+
+  <text
+    x="640"
+    y="251"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Styled Components
+  </text>
+
+  <text
+    x="835"
+    y="251"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Bootstrap
+  </text>
+
+  <!-- Row 3 -->
+
+  <text
+    x="640"
+    y="287"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    React Bootstrap
+  </text>
+
+
+
+  <!-- ========================================================
+       SECTION DIVIDER
+  ========================================================= -->
+
+  <line
+    x1="72"
+    y1="320"
+    x2="1128"
+    y2="320"
+    stroke="#21262d"
+  />
+
+
+
+  <!-- ========================================================
+       03 / STATE & DATA
+  ========================================================= -->
+
+  <text
+    x="72"
+    y="362"
+    fill="#6e7681"
+    font-size="12"
+    font-weight="600"
+    font-family="Consolas, Monaco, monospace"
+    letter-spacing="1.4"
+  >
+    03 / STATE &amp; DATA
+  </text>
+
+
+  <!-- Row 1 -->
+
+  <text
+    x="72"
+    y="405"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    TanStack Query
+  </text>
+
+  <text
+    x="245"
+    y="405"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Zustand
+  </text>
+
+  <text
+    x="410"
+    y="405"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Zod
+  </text>
+
+
+  <!-- Row 2 -->
+
+  <text
+    x="72"
+    y="445"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Redux Toolkit
+  </text>
+
+  <text
+    x="245"
+    y="445"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Redux
+  </text>
+
+  <text
+    x="410"
+    y="445"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Context API
+  </text>
+
+
+  <!-- Row 3 -->
+
+  <text
+    x="72"
+    y="481"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Supabase
+  </text>
+
+  <text
+    x="245"
+    y="481"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    MongoDB
+  </text>
+
+  <text
+    x="410"
+    y="481"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Firebase
+  </text>
+
+
+
+  <!-- ========================================================
+       04 / PLATFORM & TOOLS
+  ========================================================= -->
+
+  <text
+    x="640"
+    y="362"
+    fill="#6e7681"
+    font-size="12"
+    font-weight="600"
+    font-family="Consolas, Monaco, monospace"
+    letter-spacing="1.4"
+  >
+    04 / PLATFORM &amp; TOOLS
+  </text>
+
+
+  <!-- Row 1 -->
+
+  <text
+    x="640"
+    y="405"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Vite
+  </text>
+
+  <text
+    x="790"
+    y="405"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Docker
+  </text>
+
+  <text
+    x="940"
+    y="405"
+    fill="#e6edf3"
+    font-size="18"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Vercel
+  </text>
+
+
+  <!-- Row 2 -->
+
+  <text
+    x="640"
+    y="445"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Netlify
+  </text>
+
+  <text
+    x="790"
+    y="445"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Postman
+  </text>
+
+  <text
+    x="940"
+    y="445"
+    fill="#8b949e"
+    font-size="17"
+    font-family="Consolas, Monaco, monospace"
+  >
+    Figma
+  </text>
+
+
+
+  <!-- =========================
+       FOOTER
+  ========================== -->
+
+  <line
+    x1="72"
+    y1="515"
+    x2="1128"
+    y2="515"
+    stroke="#21262d"
+  />
+
+  <text
+    x="72"
+    y="538"
+    fill="#484f58"
+    font-size="12"
+    font-family="Consolas, Monaco, monospace"
+  >
+    selected technologies used across frontend development
+  </text>
+
+  <text
+    x="1128"
+    y="538"
+    text-anchor="end"
+    fill="#484f58"
+    font-size="12"
+    font-family="Consolas, Monaco, monospace"
+  >
+    2026
+  </text>
+
+</svg>
