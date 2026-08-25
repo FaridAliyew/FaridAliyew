@@ -51,6 +51,9 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD%20Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Real-Time Communication](https://img.shields.io/badge/Real--Time%20Communication-181717?style=for-the-badge&logo=socketdotio&logoColor=white)
+
 ## GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=FaridAliyew&theme=radical)
