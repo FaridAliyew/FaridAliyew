@@ -65,6 +65,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 
 ### 📂 My Projects
+[![QuoteFlow](https://img.shields.io/badge/QuoteFlow-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://quoteflow.website/) <br/>
 [![Maison Aurelia](https://img.shields.io/badge/Maison%20Aurelia-E34F26?style=for-the-badge&logo=react&logoColor=white)](https://maison-aurelia-steel.vercel.app/) <br/>
 [![Cookie One](https://img.shields.io/badge/🍪%20Cookie%20One-8A3500?style=for-the-badge&labelColor=8A3500&color=8A3500)](https://cookie-one-orpin.vercel.app/) <br/>
 [![Aurelia Dental Lab](https://img.shields.io/badge/Aurelia%20Dental%20Lab-075c5f?style=for-the-badge&logo=googlescholar&logoColor=white)](https://dental-technician-topaz.vercel.app/) <br/>
