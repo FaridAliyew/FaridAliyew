@@ -63,15 +63,92 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 
 
+## 📂 My Projects
 
-### 📂 My Projects
-[![QuoteFlow](https://img.shields.io/badge/QuoteFlow-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://quoteflow.website/) <br/>
-[![LUXE](https://img.shields.io/badge/✦_LUXE-0A0A0A?style=for-the-badge&labelColor=0A0A0A)](https://luxe-three-lilac.vercel.app/) <br/>
-[![Maison Aurelia](https://img.shields.io/badge/Maison%20Aurelia-E34F26?style=for-the-badge&logo=react&logoColor=white)](https://maison-aurelia-steel.vercel.app/) <br/>
-[![Cookie One](https://img.shields.io/badge/🍪%20Cookie%20One-8A3500?style=for-the-badge&labelColor=8A3500&color=8A3500)](https://cookie-one-orpin.vercel.app/) <br/>
-[![Portfolio](https://img.shields.io/badge/%3C%2F%3E%20Portfolio-000000?style=for-the-badge&logo=code&logoColor=white)](https://about-me-rosy-rho.vercel.app/) <br/>
-[![Girls Code](https://img.shields.io/badge/Girls%20Code-ff5050?style=for-the-badge&logo=vite&logoColor=white)](https://girlscode.az/) <br/>
-[![Səbat](https://img.shields.io/badge/Səbat-ff0000?style=for-the-badge&logo=vite&logoColor=white)](https://sabat.az/) 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://quoteflow.website/">
+  <img src="./assets/projects/QuoteFlow.png" width="100%" alt="QuoteFlow"/>
+</a>
+
+<h3 align="center">QuoteFlow</h3>
+
+<p align="center">
+AI-powered proposal management platform.
+</p>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://luxe-three-lilac.vercel.app/">
+  <img src="./assets/projects/Luxe.png" width="100%" alt="LUXE"/>
+</a>
+
+<h3 align="center">LUXE</h3>
+
+<p align="center">
+Luxury digital experience.
+</p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://maison-aurelia-steel.vercel.app/">
+  <img src="./assets/projects/MaisonAurelia.png" width="100%" alt="Maison Aurelia"/>
+</a>
+
+<h3 align="center">Maison Aurelia</h3>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://cookie-one-orpin.vercel.app/">
+  <img src="./assets/projects/Cookie.png" width="100%" alt="Cookie One"/>
+</a>
+
+<h3 align="center">Cookie One</h3>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://about-me-rosy-rho.vercel.app/">
+  <img src="./assets/projects/portfolio.png" width="100%" alt="Portfolio"/>
+</a>
+
+<h3 align="center">Portfolio</h3>
+</td>
+
+<td width="50%" valign="top">
+<a href="https://girlscode.az/">
+  <img src="./assets/projects/GirlsCode.png" width="100%" alt="Girls Code"/>
+</a>
+
+<h3 align="center">Girls Code</h3>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+<a href="https://sabat.az/">
+  <img src="./assets/projects/Sabat.png" width="100%" alt="Səbat"/>
+</a>
+
+<h3 align="center">Səbat</h3>
+</td>
+
+<td width="50%"></td>
+
+</tr>
+
+</table>
 
 
 
