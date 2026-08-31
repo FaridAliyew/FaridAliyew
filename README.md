@@ -55,91 +55,205 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 ![Real-Time Communication](https://img.shields.io/badge/Real--Time%20Communication-181717?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
-## 📂 My Projects
+## 📂 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
+
 <a href="https://quoteflow.website/">
-  <img src="./assets/projects/QuoteFlow.png" width="100%" alt="QuoteFlow"/>
+  <img src="./assets/projects/QuoteFlow.png" width="100%" alt="QuoteFlow Preview"/>
 </a>
 
 <h3 align="center">QuoteFlow</h3>
 
 <p align="center">
-AI-powered proposal management platform.
+  AI-powered proposal management platform for freelancers, agencies and modern teams.
 </p>
+
+<p align="center">
+  <code>Next.js</code>
+  <code>TypeScript</code>
+  <code>Supabase</code>
+  <code>AI</code>
+</p>
+
+<p align="center">
+  <a href="https://quoteflow.website/"><b>Live Demo ↗</b></a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
+
 <a href="https://luxe-three-lilac.vercel.app/">
-  <img src="./assets/projects/Luxe.png" width="100%" alt="LUXE"/>
+  <img src="./assets/projects/Luxe.png" width="100%" alt="LUXE Preview"/>
 </a>
 
 <h3 align="center">LUXE</h3>
 
 <p align="center">
-Luxury digital experience.
+  Cinematic luxury experience focused on craftsmanship, motion and premium storytelling.
 </p>
-</td>
 
+<p align="center">
+  <code>Next.js</code>
+  <code>TypeScript</code>
+  <code>GSAP</code>
+  <code>Lenis</code>
+</p>
+
+<p align="center">
+  <a href="https://luxe-three-lilac.vercel.app/"><b>Live Demo ↗</b></a>
+</p>
+
+</td>
 </tr>
 
-<tr>
 
+<tr>
 <td width="50%" valign="top">
+
 <a href="https://maison-aurelia-steel.vercel.app/">
-  <img src="./assets/projects/MaisonAurelia.png" width="100%" alt="Maison Aurelia"/>
+  <img src="./assets/projects/MaisonAurelia.png" width="100%" alt="Maison Aurelia Preview"/>
 </a>
 
 <h3 align="center">Maison Aurelia</h3>
+
+<p align="center">
+  Premium fashion-focused digital experience with an editorial visual language.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>JavaScript</code>
+  <code>Responsive UI</code>
+</p>
+
+<p align="center">
+  <a href="https://maison-aurelia-steel.vercel.app/"><b>Live Demo ↗</b></a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
+
 <a href="https://cookie-one-orpin.vercel.app/">
-  <img src="./assets/projects/Cookie.png" width="100%" alt="Cookie One"/>
+  <img src="./assets/projects/Cookie.png" width="100%" alt="Cookie One Preview"/>
 </a>
 
 <h3 align="center">Cookie One</h3>
-</td>
 
+<p align="center">
+  Modern product-focused website with a clean and visually engaging interface.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>JavaScript</code>
+  <code>Responsive UI</code>
+</p>
+
+<p align="center">
+  <a href="https://cookie-one-orpin.vercel.app/"><b>Live Demo ↗</b></a>
+</p>
+
+</td>
 </tr>
 
-<tr>
 
+<tr>
 <td width="50%" valign="top">
+
 <a href="https://about-me-rosy-rho.vercel.app/">
-  <img src="./assets/projects/portfolio.png" width="100%" alt="Portfolio"/>
+  <img src="./assets/projects/portfolio.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
 <h3 align="center">Portfolio</h3>
+
+<p align="center">
+  Personal developer portfolio showcasing projects, skills and frontend experience.
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>JavaScript</code>
+  <code>Frontend</code>
+</p>
+
+<p align="center">
+  <a href="https://about-me-rosy-rho.vercel.app/"><b>Live Demo ↗</b></a>
+</p>
+
 </td>
 
 <td width="50%" valign="top">
+
 <a href="https://girlscode.az/">
-  <img src="./assets/projects/GirlsCode.png" width="100%" alt="Girls Code"/>
+  <img src="./assets/projects/GirlsCode.png" width="100%" alt="Girls Code Preview"/>
 </a>
 
 <h3 align="center">Girls Code</h3>
-</td>
 
+<p align="center">
+  Community-oriented platform designed around education, technology and women in tech.
+</p>
+
+<p align="center">
+  <code>Frontend</code>
+  <code>Responsive</code>
+  <code>UI/UX</code>
+</p>
+
+<p align="center">
+  <a href="https://girlscode.az/"><b>Live Demo ↗</b></a>
+</p>
+
+</td>
 </tr>
 
-<tr>
 
+<tr>
 <td width="50%" valign="top">
+
 <a href="https://sabat.az/">
-  <img src="./assets/projects/Səbat.png" width="100%" alt="Səbat"/>
+  <img src="./assets/projects/Səbat.png" width="100%" alt="Səbat Preview"/>
 </a>
 
 <h3 align="center">Səbat</h3>
+
+<p align="center">
+  Corporate digital platform with a clean, structured and responsive interface.
+</p>
+
+<p align="center">
+  <code>Frontend</code>
+  <code>Responsive</code>
+  <code>Web Development</code>
+</p>
+
+<p align="center">
+  <a href="https://sabat.az/"><b>Live Demo ↗</b></a>
+</p>
+
 </td>
 
-<td width="50%"></td>
+<td width="50%" valign="top">
 
+<br><br>
+
+<h3 align="center">More Coming Soon</h3>
+
+<p align="center">
+  New products and experiments are currently in development.
+</p>
+
+<p align="center">
+  <code>Building...</code>
+</p>
+
+</td>
 </tr>
-
 </table>
 
 
