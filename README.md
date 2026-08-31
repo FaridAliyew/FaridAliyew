@@ -138,7 +138,7 @@ Luxury digital experience.
 
 <td width="50%" valign="top">
 <a href="https://sabat.az/">
-  <img src="./assets/projects/Sabat.png" width="100%" alt="Səbat"/>
+  <img src="./assets/projects/Səbat.png" width="100%" alt="Səbat"/>
 </a>
 
 <h3 align="center">Səbat</h3>
