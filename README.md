@@ -165,7 +165,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://about-me-rosy-rho.vercel.app/">
+<a href="portfolio-two-psi-56.vercel.app">
   <img src="./assets/projects/portfolio.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
