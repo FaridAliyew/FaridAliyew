@@ -165,7 +165,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <tr>
 <td width="50%" valign="top">
 
-<a href="portfolio-two-psi-56.vercel.app">
+<a href="https://portfolio-two-psi-56.vercel.app/">
   <img src="./assets/projects/portfolio.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
@@ -182,7 +182,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 </p>
 
 <p align="center">
-  <a href="portfolio-two-psi-56.vercel.app"><b>Live Demo ↗</b></a>
+  <a href="https://portfolio-two-psi-56.vercel.app/"><b>Live Demo ↗</b></a>
 </p>
 
 </td>
