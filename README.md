@@ -240,16 +240,24 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 
 <td width="50%" valign="top">
 
-<br><br>
+<a href="https://villa-aurum.vercel.app/">
+  <img src="./assets/projects/VillaAurum.png" width="100%" alt="Portfolio Preview"/>
+</a>
 
-<h3 align="center">More Coming Soon</h3>
+<h3 align="center">Villa Aurum</h3>
 
 <p align="center">
-  New products and experiments are currently in development.
+  Villa Aurum curates a collection of rare, hand-picked private estates along the Mediterranean coast. 
 </p>
 
 <p align="center">
-  <code>Building...</code>
+  <code>React</code>
+  <code>JavaScript</code>
+  <code>Responsive UI</code>
+</p>
+
+<p align="center">
+  <a href="https://villa-aurum.vercel.app/"><b>Live Demo ↗</b></a>
 </p>
 
 </td>
