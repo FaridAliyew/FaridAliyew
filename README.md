@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="./assets/code-animation.svg"
@@ -264,7 +263,11 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 </tr>
 </table>
 
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=FaridAliyew&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&labelColor=ffffff" alt="Profile Views" />
+
+</div>
 
 
 
