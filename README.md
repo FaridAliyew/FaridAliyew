@@ -113,27 +113,30 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://maison-aurelia-steel.vercel.app/">
-  <img src="./assets/projects/MaisonAurelia.png" width="100%" alt="Maison Aurelia Preview"/>
+<a href="https://wine-website-omega.vercel.app/">
+  <img src="./assets/projects/wine.jpg" width="100%" alt="Maison Aurelia Preview"/>
 </a>
 
-<h3 align="center">Maison Aurelia</h3>
+<h3 align="center">DOMAINE AURIS</h3>
 
 <p align="center">
-  Premium fashion-focused digital experience with an editorial visual language.
+ Premium wine-focused digital experience blending cinematic storytelling with refined vineyard-inspired visuals.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>JavaScript</code>
+  <code>Next.js</code>
+  <code>Tailwind CSS</code>
   <code>Responsive UI</code>
 </p>
 
 <p align="center">
-  <a href="https://maison-aurelia-steel.vercel.app/"><b>Live Demo ↗</b></a>
+  <a href="https://wine-website-omega.vercel.app/"><b>Live Demo ↗</b></a>
 </p>
 
 </td>
+
+
+
 
 <td width="50%" valign="top">
 
