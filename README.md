@@ -243,7 +243,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://villa-aurum.vercel.app/">
-  <img src="./assets/projects/VillaAurum.png" width="100%" alt="Portfolio Preview"/>
+  <img src="./assets/projects/willa-aurum.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
 <h3 align="center">Villa Aurum</h3>
