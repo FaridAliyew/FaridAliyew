@@ -61,7 +61,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://quoteflow.website/">
-  <img src="./assets/projects/QuoteFlow.png" width="100%" alt="QuoteFlow Preview"/>
+  <img src="./assets/projects/quoteFlow.png" width="100%" alt="QuoteFlow Preview"/>
 </a>
 
 <h3 align="center">QuoteFlow</h3>
@@ -86,7 +86,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://luxe-three-lilac.vercel.app/">
-  <img src="./assets/projects/Luxe.png" width="100%" alt="LUXE Preview"/>
+  <img src="./assets/projects/luxe.png" width="100%" alt="LUXE Preview"/>
 </a>
 
 <h3 align="center">LUXE</h3>
@@ -114,7 +114,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://wine-website-omega.vercel.app/">
-  <img src="./assets/projects/wine.jpg" width="100%" alt="Maison Aurelia Preview"/>
+  <img src="./assets/projects/Wine.png" width="100%" alt="Maison Aurelia Preview"/>
 </a>
 
 <h3 align="center">DOMAINE AURIS</h3>
@@ -141,7 +141,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://cookie-one-orpin.vercel.app/">
-  <img src="./assets/projects/Cookie.png" width="100%" alt="Cookie One Preview"/>
+  <img src="./assets/projects/cookie.png" width="100%" alt="Cookie One Preview"/>
 </a>
 
 <h3 align="center">Cookie One</h3>
@@ -168,7 +168,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://faridaliyev.dev">
-  <img src="./assets/projects/portfolio.png" width="100%" alt="Portfolio Preview"/>
+  <img src="./assets/projects/Portfolio.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
 <h3 align="center">Portfolio</h3>
@@ -192,7 +192,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://girlscode.az/">
-  <img src="./assets/projects/GirlsCode.png" width="100%" alt="Girls Code Preview"/>
+  <img src="./assets/projects/girlscode.png" width="100%" alt="Girls Code Preview"/>
 </a>
 
 <h3 align="center">Girls Code</h3>
@@ -219,7 +219,7 @@ I'm Farid Aliyev, live in Sumgayit. I love to write code and develop myself. I l
 <td width="50%" valign="top">
 
 <a href="https://sabat.az/">
-  <img src="./assets/projects/Səbat.png" width="100%" alt="Səbat Preview"/>
+  <img src="./assets/projects/sabat.png" width="100%" alt="Səbat Preview"/>
 </a>
 
 <h3 align="center">Səbat</h3>
